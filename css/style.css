@@ -59,7 +59,8 @@ p {
   line-height: 1.8em;
   letter-spacing: .103em;
   margin-bottom: 15px;
-  align-content: space-around;
+  display: flex;
+  justify-content: center;
 }
 
 span {
